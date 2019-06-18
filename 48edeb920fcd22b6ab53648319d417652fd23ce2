@@ -1,0 +1,1 @@
+{"jobID":"981d1fed-69cb-c712-fd25-7d3c8168a1f7","spec":{"type":"policy","cause":{"Message":"","User":"Alistair Blair \u003cablair1@statestreet.com\u003e"},"spec":{"demo:deployment/podinfo":{"add":{"tag_all":"glob:1.4.*"},"remove":{}}}},"result":null}
